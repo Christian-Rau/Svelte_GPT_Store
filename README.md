@@ -5,6 +5,18 @@ with form support: **Superforms**, **Formsnap**, **Bits-UI**, and **Supabase Int
 
 🔗 [Use this GPT on ChatGPT](https://chatgpt.com/g/g-67f22c58490081918330d7a6bac03fc6-svelte-5-strict-kit-w-support-for-forms)
 
+---
+
+![Svelte 5](https://img.shields.io/badge/Svelte-v5-orange?logo=svelte&logoColor=white)
+![SvelteKit 2](https://img.shields.io/badge/SvelteKit-v2.0-red?logo=svelte&labelColor=000)
+![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Superforms](https://img.shields.io/badge/Forms-Superforms-blueviolet)
+![Formsnap](https://img.shields.io/badge/Form_UI-Formsnap-8A2BE2)
+![Bits UI](https://img.shields.io/badge/UI-Bits--UI-4B5563?logo=svelte)
+![Tailwind CSS](https://img.shields.io/badge/CSS-Tailwind-38B2AC?logo=tailwindcss)
+
+---
+
 ## Overview
 
 **Svelte_GPT_Store** is a highly focused coding assistant designed for the **latest versions of Svelte (v5)** and **SvelteKit (v2)**. It enforces best practices, uses **runes** for explicit reactivity, and provides accurate integration patterns for **form libraries and backend tools**.
