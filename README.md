@@ -65,11 +65,11 @@ It prioritizes:
 
 This repo serves as a content vault for the Svelte_GPT_Store assistant. Here's what each file does:
 
-- **Svelte 5 Runes for AI.txt** – Guide to using Svelte 5 runes in AI interfaces or data flows.
-- **SvelteKit 2.0 and Svelte 5 – Comprehensive Reference.txt** – Central reference with best-practice code examples for SvelteKit 2 and Svelte 5, including routing, forms, runes, stores, and adapters.
-- **Comparing Supabase Integration Approaches in SvelteKit and Svelte.txt** – A deep dive into server-only vs client-only approaches for integrating Supabase in your SvelteKit app.
-- **Building Forms with Bits UI, Formsnap, and SvelteKit Superforms.txt** – Hands-on patterns for creating accessible, validated forms using modern Svelte-friendly tools.
-- **Sveltekit brief.txt / Svelte 5 documentation links.txt / Sveltekit 2.0 docs links.txt** – Quick references and link maps to core official documentation.
+- **Svelte 5 Runes for AI.md** – Guide to using Svelte 5 runes in AI interfaces or data flows.
+- **SvelteKit 2.0 and Svelte 5 – Comprehensive Reference.md** – Central reference with best-practice code examples for SvelteKit 2 and Svelte 5, including routing, forms, runes, stores, and adapters.
+- **Comparing Supabase Integration Approaches in SvelteKit and Svelte.md** – A deep dive into server-only vs client-only approaches for integrating Supabase in your SvelteKit app.
+- **Building Forms with Bits UI, Formsnap, and SvelteKit Superforms.md** – Hands-on patterns for creating accessible, validated forms using modern Svelte-friendly tools.
+- **Sveltekit brief.md / Svelte 5 documentation links.md / Sveltekit 2.0 docs links.md** – Quick references and link maps to core official documentation.
 
 ## 🤝 Contributing
 
